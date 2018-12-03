@@ -1,4 +1,4 @@
-baseURL = "https://bnaras.github.io/bvenkat"
+baseURL = "https://bnaras.github.io/bvenkat/"
 languageCode = "en-us"
 title = "Balasubramanian Venkat"
 theme = "hugo-resume"
