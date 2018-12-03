@@ -5,7 +5,7 @@
     "featured":true,
     "tags":["Java", "JBoss", "Docomo","REST APIs"],
     "fact":"Led to creation of an insurance campaign management tool in UK.",
-    "weight":"80",
+    "weight":"-25",
     "sitemap": {"priority" : "0.60"}
 }
 

@@ -5,7 +5,7 @@
     "featured":true,
     "tags":["Java", "JBoss", "Docomo","REST APIs"],
     "fact":"EDI project for retainers in Kuala Lumpur.",
-    "weight":"100",
+    "weight":"-20",
     "sitemap": {"priority" : "0.60"}
 }
 

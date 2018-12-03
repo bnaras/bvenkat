@@ -12,15 +12,37 @@
     
     
     <item>
-      <title>Independent Consultant</title>
-      <link>/bnaras/bvenkat/projects/contributions/job-05/</link>
-      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
+      <title>Program Manager, Program Director</title>
+      <link>/bnaras/bvenkat/projects/contributions/job-01/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/bnaras/bvenkat/projects/contributions/job-05/</guid>
-      <description>Independent Consultant, Cheltenham, U.K, and Chennai, India. Feb 1995 –- June 1998.
- Project Manager.
- Developed a Campaign Management Tool in United Kingdom for insurance companies.  System Analyst.
- Developed PC based solutions for Small to medium sized enterprises in and around Chennai.  Consultant for a leading systems integration company in Chennai.
+      <guid>/bnaras/bvenkat/projects/contributions/job-01/</guid>
+      <description>Polaris Financial Technology &amp;amp; Intellect Design Arena Ltd., Mumbai and Chennai, India. June 2011 &amp;ndash; Feb 2017.
+ Program director for our global transaction banking implementation for one of the largest public sector banks in India. This was the first implementation on Jboss application server and the first ever implementation of our Transaction banking product in India.
+ Program Manager for Liquidity Solution implementation for one of the largest Globally recognized Financial services Firm.</description>
+    </item>
+    
+    <item>
+      <title>Program Manager, Project Manager</title>
+      <link>/bnaras/bvenkat/projects/contributions/job-02/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/bnaras/bvenkat/projects/contributions/job-02/</guid>
+      <description>Cambridge Solutions, Bracknell, UK and Chennai, India. May 2008 –- Sep 2010.
+ Senior Delivery Solutions Manager for DHL Supply Chain Application.
+ Senior Delivery Manager for the Enterprise Systems Integration team and Supply Chain Integration team, managing about 130 members in the team. Key responsibilities were to streamline the team, manage and strengthen the delivery capabilities for DHL Supply Chain account.
+ Onsite IT Program Manager for DHL managed around 10 projects in the Enterprise services Integration area.</description>
+    </item>
+    
+    <item>
+      <title>Independent Consultant</title>
+      <link>/bnaras/bvenkat/projects/contributions/job-03/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/bnaras/bvenkat/projects/contributions/job-03/</guid>
+      <description> Sep 2007 &amp;ndash; Apr 2008.
+ Provided Project management consultancy for Nuveda Learning Pvt. Ltd.
+ Managed engineering &amp;amp; delivery of e-learning packages for Multi location rollouts.
   </description>
     </item>
     
@@ -37,37 +59,15 @@
     
     <item>
       <title>Independent Consultant</title>
-      <link>/bnaras/bvenkat/projects/contributions/job-03/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <link>/bnaras/bvenkat/projects/contributions/job-05/</link>
+      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
       
-      <guid>/bnaras/bvenkat/projects/contributions/job-03/</guid>
-      <description> Sep 2007 &amp;ndash; Apr 2008.
- Provided Project management consultancy for Nuveda Learning Pvt. Ltd.
- Managed engineering &amp;amp; delivery of e-learning packages for Multi location rollouts.
+      <guid>/bnaras/bvenkat/projects/contributions/job-05/</guid>
+      <description>Independent Consultant, Cheltenham, U.K, and Chennai, India. Feb 1995 –- June 1998.
+ Project Manager.
+ Developed a Campaign Management Tool in United Kingdom for insurance companies.  System Analyst.
+ Developed PC based solutions for Small to medium sized enterprises in and around Chennai.  Consultant for a leading systems integration company in Chennai.
   </description>
-    </item>
-    
-    <item>
-      <title>Program Manager, Project Manager</title>
-      <link>/bnaras/bvenkat/projects/contributions/job-02/</link>
-      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/projects/contributions/job-02/</guid>
-      <description>Cambridge Solutions, Bracknell, UK and Chennai, India. May 2008 –- Sep 2010.
- Senior Delivery Solutions Manager for DHL Supply Chain Application.
- Senior Delivery Manager for the Enterprise Systems Integration team and Supply Chain Integration team, managing about 130 members in the team. Key responsibilities were to streamline the team, manage and strengthen the delivery capabilities for DHL Supply Chain account.
- Onsite IT Program Manager for DHL managed around 10 projects in the Enterprise services Integration area.</description>
-    </item>
-    
-    <item>
-      <title>Program Manager, Program Director</title>
-      <link>/bnaras/bvenkat/projects/contributions/job-01/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/projects/contributions/job-01/</guid>
-      <description>Polaris Financial Technology &amp;amp; Intellect Design Arena Ltd., Mumbai and Chennai, India. June 2011 &amp;ndash; Feb 2017.
- Program director for our global transaction banking implementation for one of the largest public sector banks in India. This was the first implementation on Jboss application server and the first ever implementation of our Transaction banking product in India.
- Program Manager for Liquidity Solution implementation for one of the largest Globally recognized Financial services Firm.</description>
     </item>
     
     <item>
@@ -101,33 +101,6 @@
       <guid>/bnaras/bvenkat/publications/alldaydevops/</guid>
       <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
  Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
-    </item>
-    
-    <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>/bnaras/bvenkat/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>/bnaras/bvenkat/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
-    </item>
-    
-    <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>/bnaras/bvenkat/projects/creations/marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>/bnaras/bvenkat/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
     </item>
     
     <item>

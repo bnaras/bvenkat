@@ -5,7 +5,7 @@
     "featured":true,
     "tags":["Java", "JBoss", "Docomo","REST APIs"],
     "fact":"Five projects were delivered into production in a period of 14 months and five new ones initiated.",
-    "weight":"95",
+    "weight":"-45",
     "sitemap": {"priority" : "0.75"}
 }
 

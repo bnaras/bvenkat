@@ -21,60 +21,6 @@
     </item>
     
     <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>/bnaras/bvenkat/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>/bnaras/bvenkat/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bamboo</title>
-      <link>/bnaras/bvenkat/tags/bamboo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash/Shell</title>
-      <link>/bnaras/bvenkat/tags/bash-shell/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/bash-shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitbucket</title>
-      <link>/bnaras/bvenkat/tags/bitbucket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/bitbucket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bosh</title>
-      <link>/bnaras/bvenkat/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/bosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>C</title>
       <link>/bnaras/bvenkat/tags/c/</link>
       <pubDate>Fri, 01 Apr 1994 00:00:00 +0000</pubDate>
@@ -89,15 +35,6 @@
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>/bnaras/bvenkat/tags/ci-cd-pipelines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>/bnaras/bvenkat/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/confluence/</guid>
       <description></description>
     </item>
     
@@ -138,18 +75,9 @@
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>/bnaras/bvenkat/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Docomo</title>
       <link>/bnaras/bvenkat/tags/docomo/</link>
-      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/bnaras/bvenkat/tags/docomo/</guid>
       <description></description>
@@ -167,90 +95,27 @@
     <item>
       <title>Java</title>
       <link>/bnaras/bvenkat/tags/java/</link>
-      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/bnaras/bvenkat/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Javascript</title>
-      <link>/bnaras/bvenkat/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jboss</title>
       <link>/bnaras/bvenkat/tags/jboss/</link>
-      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/bnaras/bvenkat/tags/jboss/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jira</title>
-      <link>/bnaras/bvenkat/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maven</title>
-      <link>/bnaras/bvenkat/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monit</title>
-      <link>/bnaras/bvenkat/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/monit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/bnaras/bvenkat/tags/python/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rest Apis</title>
       <link>/bnaras/bvenkat/tags/rest-apis/</link>
-      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/bnaras/bvenkat/tags/rest-apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>/bnaras/bvenkat/tags/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xml/Xslt</title>
-      <link>/bnaras/bvenkat/tags/xml-xslt/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>/bnaras/bvenkat/tags/xml-xslt/</guid>
       <description></description>
     </item>
     

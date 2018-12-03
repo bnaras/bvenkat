@@ -5,7 +5,7 @@
     "featured":true,
     "tags":["Foxpro", "C"],
     "fact":"Database solutions and C language solutions.",
-    "weight":"100",
+    "weight":"-15",
     "sitemap": {"priority" : "0.60"}
 }
 

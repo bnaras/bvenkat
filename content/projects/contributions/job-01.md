@@ -5,7 +5,7 @@
     "featured":true,
     "tags":["Java", "JBoss", "Docomo","REST APIs"],
     "fact":"Led to larger acceptance of solution by many more NBFC.",
-    "weight":"100",
+		"weight":"-50",
     "sitemap": {"priority" : "0.8"}
 }
 

@@ -5,7 +5,7 @@
     "featured":true,
     "tags":["Java", "JBoss", "Docomo","REST APIs"],
     "fact":"Managed engineering and delivery of customized e-learning packages for multiple locations.",
-    "weight":"90",
+    "weight":"-40",
     "sitemap": {"priority" : "0.70"}
 }
 
