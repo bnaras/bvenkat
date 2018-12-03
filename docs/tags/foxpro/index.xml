@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foxpro on Balasubramanian Venkat</title>
+    <link>/tags/foxpro/</link>
+    <description>Recent content in Foxpro on Balasubramanian Venkat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 1994 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/foxpro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programmer and Systems Analyst</title>
+      <link>/projects/contributions/job-07/</link>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/contributions/job-07/</guid>
+      <description>Independent Consultant, Chennai, India. May 1991 –- Apr 1994.
+ Designed and developed software using Clipper, FoxPro and C. for small to medium sized companies, catering to their requirements in Financial Accounting, Inventory control and Personnel management systems.  Business Services Group, Chennai, India. May 1989 –- Dec 1991.
+ Developed software applications in FoxPro, Clipper, C and Unify mainly in the areas of Financial Accounting, Inventory control and production planning &amp;amp; control.</description>
+    </item>
+    
+  </channel>
+</rss>
