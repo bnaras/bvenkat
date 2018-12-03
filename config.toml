@@ -1,0 +1,42 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Balasubramanian Venkat"
+theme = "hugo-resume"
+
+ignoreFiles = ["^README\\.md$", "^\\.Rhistory$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+    firstName = "Balasubramanian"
+    lastName = "Venkat"
+    address = "Chennai, India"
+    phone = "+91 44 24403193"
+    contactNote = "Consultant"
+    profileImage = "img/bvenkat.jpg"
+    email = "venksb@hotmail.com"
+    description = "International Banking Application Professional with over 25 years experience with companies in India, Far East, Middle East and Europe"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = true
+    showPublications = false
+    showExperience = false
+    showEducation = true
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/venksb/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/venksb"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/venksb/"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"

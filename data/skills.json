@@ -1,0 +1,14 @@
+[
+  {
+      "grouping":"Organization",
+      "skills":[ "Strategic Planning", "Program Development",  "Risk Management" ]
+
+  },{
+      "grouping":"Implementation", 
+      "skills":[ "Program Management", "Product Development", "Product Deployment", "Quality Control", "Cost Management" ] 
+  },
+  {
+      "grouping":"Teaching", 
+      "skills":[ "Coaching and Mentoring" ]
+  }
+]

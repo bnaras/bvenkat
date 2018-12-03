@@ -1,0 +1,20 @@
+[
+    {
+        "school":"University of Madras, Chennai, India",
+        "degree":"Bachelor of Science",
+        "major":"Mathematics",
+        "range":"1985"
+    },
+    {
+        "school":"Thiagrarajar College of Engineering, Madurai, India",
+        "degree":"Certificate in Computer Programming", 
+        "major":"Computer Information Systems",
+        "range":"1986"
+    },
+    {
+        "school":"Project Management Institute, USA",
+        "degree":"Project Management Professional",
+        "range":"2003"
+    }
+    
+]
