@@ -9,7 +9,6 @@ ignoreFiles = ["^README\\.md$", "^\\.Rhistory$", "\\.Rmd$", "\\.Rmarkdown$", "_f
     firstName = "Balasubramanian"
     lastName = "Venkat"
     address = "Chennai, India"
-    phone = "+91 44 24403193"
     contactNote = "Consultant"
     profileImage = "img/bvenkat.jpg"
     email = "venksb@hotmail.com"
